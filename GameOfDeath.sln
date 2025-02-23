@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfDeath", "GameOfDeath\GameOfDeath.csproj", "{D760BE41-D236-4DC1-88EC-5E40E5DA71FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfDeath.Console", "GameOfDeath.Console\GameOfDeath.Console.csproj", "{648FAE7A-D607-4BD0-AC85-BB86B611F71F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D760BE41-D236-4DC1-88EC-5E40E5DA71FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D760BE41-D236-4DC1-88EC-5E40E5DA71FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D760BE41-D236-4DC1-88EC-5E40E5DA71FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{648FAE7A-D607-4BD0-AC85-BB86B611F71F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648FAE7A-D607-4BD0-AC85-BB86B611F71F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648FAE7A-D607-4BD0-AC85-BB86B611F71F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648FAE7A-D607-4BD0-AC85-BB86B611F71F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
